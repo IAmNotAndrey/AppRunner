@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ec4nRbojtmDS0pDlhrLb9LmbfTbOyAnnKhamOT4UqYi2aBaGipIW4h27FSCl2HKzcCeQJitUSLvX7hutGqtceQ==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\AppRunner\\AppRunner\\AppRunner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\perma\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}

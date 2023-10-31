@@ -1,0 +1,17 @@
+D:\Program Files\personal_programmes\AppRunner\AppRunner\bin\Debug\net6.0\AppRunner.exe
+D:\Program Files\personal_programmes\AppRunner\AppRunner\bin\Debug\net6.0\AppRunner.deps.json
+D:\Program Files\personal_programmes\AppRunner\AppRunner\bin\Debug\net6.0\AppRunner.runtimeconfig.json
+D:\Program Files\personal_programmes\AppRunner\AppRunner\bin\Debug\net6.0\AppRunner.dll
+D:\Program Files\personal_programmes\AppRunner\AppRunner\bin\Debug\net6.0\AppRunner.pdb
+D:\Program Files\personal_programmes\AppRunner\AppRunner\obj\Debug\net6.0\AppRunner.csproj.AssemblyReference.cache
+D:\Program Files\personal_programmes\AppRunner\AppRunner\obj\Debug\net6.0\AppRunner.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\personal_programmes\AppRunner\AppRunner\obj\Debug\net6.0\AppRunner.AssemblyInfoInputs.cache
+D:\Program Files\personal_programmes\AppRunner\AppRunner\obj\Debug\net6.0\AppRunner.AssemblyInfo.cs
+D:\Program Files\personal_programmes\AppRunner\AppRunner\obj\Debug\net6.0\AppRunner.csproj.CoreCompileInputs.cache
+D:\Program Files\personal_programmes\AppRunner\AppRunner\obj\Debug\net6.0\AppRunner.dll
+D:\Program Files\personal_programmes\AppRunner\AppRunner\obj\Debug\net6.0\refint\AppRunner.dll
+D:\Program Files\personal_programmes\AppRunner\AppRunner\obj\Debug\net6.0\AppRunner.pdb
+D:\Program Files\personal_programmes\AppRunner\AppRunner\obj\Debug\net6.0\AppRunner.genruntimeconfig.cache
+D:\Program Files\personal_programmes\AppRunner\AppRunner\obj\Debug\net6.0\ref\AppRunner.dll
+D:\Program Files\personal_programmes\AppRunner\AppRunner\bin\Debug\net6.0\CommandLine.dll
+D:\Program Files\personal_programmes\AppRunner\AppRunner\obj\Debug\net6.0\AppRunner.csproj.CopyComplete
