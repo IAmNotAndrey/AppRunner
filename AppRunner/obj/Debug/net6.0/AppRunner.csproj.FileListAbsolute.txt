@@ -15,3 +15,20 @@ D:\Program Files\personal_programmes\AppRunner\AppRunner\obj\Debug\net6.0\AppRun
 D:\Program Files\personal_programmes\AppRunner\AppRunner\obj\Debug\net6.0\ref\AppRunner.dll
 D:\Program Files\personal_programmes\AppRunner\AppRunner\bin\Debug\net6.0\CommandLine.dll
 D:\Program Files\personal_programmes\AppRunner\AppRunner\obj\Debug\net6.0\AppRunner.csproj.CopyComplete
+D:\GitHub\AppRunner\AppRunner\bin\Debug\net6.0\AppRunner.exe
+D:\GitHub\AppRunner\AppRunner\bin\Debug\net6.0\AppRunner.deps.json
+D:\GitHub\AppRunner\AppRunner\bin\Debug\net6.0\AppRunner.runtimeconfig.json
+D:\GitHub\AppRunner\AppRunner\bin\Debug\net6.0\AppRunner.dll
+D:\GitHub\AppRunner\AppRunner\bin\Debug\net6.0\AppRunner.pdb
+D:\GitHub\AppRunner\AppRunner\bin\Debug\net6.0\CommandLine.dll
+D:\GitHub\AppRunner\AppRunner\obj\Debug\net6.0\AppRunner.csproj.AssemblyReference.cache
+D:\GitHub\AppRunner\AppRunner\obj\Debug\net6.0\AppRunner.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\AppRunner\AppRunner\obj\Debug\net6.0\AppRunner.AssemblyInfoInputs.cache
+D:\GitHub\AppRunner\AppRunner\obj\Debug\net6.0\AppRunner.AssemblyInfo.cs
+D:\GitHub\AppRunner\AppRunner\obj\Debug\net6.0\AppRunner.csproj.CoreCompileInputs.cache
+D:\GitHub\AppRunner\AppRunner\obj\Debug\net6.0\AppRunner.csproj.CopyComplete
+D:\GitHub\AppRunner\AppRunner\obj\Debug\net6.0\AppRunner.dll
+D:\GitHub\AppRunner\AppRunner\obj\Debug\net6.0\refint\AppRunner.dll
+D:\GitHub\AppRunner\AppRunner\obj\Debug\net6.0\AppRunner.pdb
+D:\GitHub\AppRunner\AppRunner\obj\Debug\net6.0\AppRunner.genruntimeconfig.cache
+D:\GitHub\AppRunner\AppRunner\obj\Debug\net6.0\ref\AppRunner.dll

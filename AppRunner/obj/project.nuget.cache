@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ec4nRbojtmDS0pDlhrLb9LmbfTbOyAnnKhamOT4UqYi2aBaGipIW4h27FSCl2HKzcCeQJitUSLvX7hutGqtceQ==",
+  "dgSpecHash": "nwVWtlv7zwUikyq3mRfcQptDIyX6T0jhnor3z4ZIP2G7KblsbBpI7DvBR4Jxi9cW6+6Wp8QHBZWhZFwjYwelDA==",
   "success": true,
   "projectFilePath": "D:\\GitHub\\AppRunner\\AppRunner\\AppRunner.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\perma\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512"
+    "C:\\Users\\perma\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512",
+    "C:\\Users\\perma\\.nuget\\packages\\serilog\\3.0.1\\serilog.3.0.1.nupkg.sha512"
   ],
   "logs": []
 }

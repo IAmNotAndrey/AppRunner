@@ -5,15 +5,15 @@ namespace AppRunner;
 
 public class CommandParser
 {
-	public TaskResult<CommandLineParams> Parse(string[] args)
+	public TaskResult<CmdParams> Parse(string[] args)
 	{
-		TaskResult<CommandLineParams> output = new();
+		TaskResult<CmdParams> output = new();
 
 		args = args
 			.Select(x => x.Replace("/", "--"))
 			.ToArray();
 
-		Parser.Default.ParseArguments<CommandLineParams>(args)
+		Parser.Default.ParseArguments<CmdParams>(args)
 			.WithParsed(options =>
 			{
 				// Проверка взаимоисключающих опций
@@ -27,16 +27,16 @@ public class CommandParser
 					return;
 				}
 
-				output.Output = options;
+                Console.WriteLine("OK");
+                output.Output = options;
 				output.ExecutionResult = ExecutionResult.OK;
 
 				return;
 			})
 			.WithNotParsed(errors =>
 			{
-				
-				
-			});
+                Console.WriteLine("[-] NotParsed");
+            });
 
 		return default;
 	}
